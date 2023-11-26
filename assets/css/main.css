@@ -2807,9 +2807,10 @@ input, select, textarea {
 	}
 
 		ul.icons li {
-			display: inline-block;
+/* 			display: inline-block; */
+			float: left;
 			padding: 0 0.5rem 0 0;
-			vertical-align: middle;
+/* 			vertical-align: middle; */
 		}
 
 			ul.icons li:last-child {
